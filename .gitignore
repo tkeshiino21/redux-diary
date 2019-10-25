@@ -37,6 +37,3 @@ ENV/
 
 # cached files
 .cache/
-
-# generated files
-public/
