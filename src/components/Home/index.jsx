@@ -20,7 +20,7 @@ const Home = ({ portfolios }) => (
       <Title>
         Electric Sheep
       </Title>
-      <Link to="./pages/1"><Button>
+      <Link to="./mokumoku/1"><Button>
         All Posts
       </Button></Link>
     </Wrapper>

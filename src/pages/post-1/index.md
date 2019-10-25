@@ -2,15 +2,17 @@
 path: "/post-1/"
 category: "mokumoku"
 tags: ["proverb", "security"]
-title: "Lorem Ipsum"
+title: "Ebis.js mokumoku diary"
 date: "2018-01-01T00:00:00.000Z"
 summary: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
 images: ["images/1.jpg"]
 ---
 
-> XSS
+## 脆弱性
 
-脆弱性
+> XSS...クロスサイトスクリプティング（英: cross site scripting）とは、Webアプリケーションの脆弱性[1]もしくはそれを利用した攻撃。脆弱性をツリー型に分類するCWEではこの攻撃を不適切な入力確認によるインジェクションのひとつとして分類している[2]。略称はXSS。かつてはCSSという略称も使われていたが、Cascading Style Sheetsと紛らわしいのでこの略称はあまり使われなくなった[1]。(wikipediaより引用)
+
+脆弱脆弱ーーー！！
 
 > 車輪の再発明
 
