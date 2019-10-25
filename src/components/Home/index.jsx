@@ -6,7 +6,7 @@ import Wrapper from '~/components/Common/Wrapper';
 import SimpleWrapper from '~/components/Common/SimpleWrapper';
 import PortfolioCard from '~/components/Common/PortfolioCard';
 import { TITLE } from '~/constants';
-import { Title } from './styled';
+import { Title, Button } from './styled';
 
 const Home = ({ portfolios }) => (
   <>
@@ -18,8 +18,11 @@ const Home = ({ portfolios }) => (
     </Helmet>
     <Wrapper isHome>
       <Title>
-        Hello, Blog!
+        Electric Sheep
       </Title>
+      <Link to="./pages/1"><Button>
+        All Posts
+      </Button></Link>
     </Wrapper>
     {portfolios.length >= 4 ? (
       <SimpleWrapper>
