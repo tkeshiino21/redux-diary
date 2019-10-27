@@ -3,8 +3,8 @@ path: "/post-1/"
 category: "mokumoku"
 tags: ["proverb", "security"]
 title: "Ebis.js mokumoku diary"
-date: "2018-01-01T00:00:00.000Z"
-summary: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+date: "2019-10-25T00:00:00.000Z"
+summary: "他人事じゃない！ハッキングの基礎知識"
 images: ["images/1.jpg"]
 ---
 

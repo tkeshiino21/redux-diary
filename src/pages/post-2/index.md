@@ -1,23 +1,27 @@
 ---
 path: "/post-2/"
-category: "test-7"
-tags: ["tag"]
-title: "Lorem Ipsum"
+category: "その他"
+tags: ["proverb"]
+title: "車輪の再発明"
 date: "2018-01-02T00:00:00.000Z"
-summary: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+summary: "プログラマーなら必ず知っておくべき諺「車輪の再発明」とは？」"
 images: ["images/1.jpg"]
 ---
 
-> Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
+> 車輪の再発明（しゃりんのさいはつめい、英: reinventing the wheel）は、車輪を題材にした慣用句であり、世界中で使われている。「広く受け入れられ確立されている技術や解決法を知らずに（または意図的に無視して）、同様のものを再び一から作ること」を意味する。(wikipediaより引用)
 
-> There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...
+「ええもんは使こうとけ！」みたいな話。
+何か作りたいものがあったとき、既存のものでいいのあったら使おうよって。
+例えば今時Firebaseを使わないでログインフォームを自分で１から作るのは、車輪の再開発かもしれない。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed porttitor orci, a porta augue. Vestibulum augue velit, interdum in sagittis vel, gravida volutpat erat. Suspendisse ultrices tellus lorem, rhoncus finibus nisl pharetra et. Morbi aliquam, massa in sagittis imperdiet, nisi metus consequat ipsum, eu congue mi ipsum vel ante. Proin consequat libero eu facilisis aliquet. Mauris viverra malesuada elit, at suscipit est ullamcorper sed. Integer commodo ultricies ligula, ut mattis elit tincidunt sit amet. Vivamus nec sapien sit amet turpis finibus feugiat. Ut nec felis dictum, porttitor nisl eget, imperdiet lacus. Aenean lobortis purus vitae consequat molestie. Pellentesque rhoncus nunc at semper ornare. Vivamus sagittis consequat imperdiet. Fusce a lorem in mauris iaculis fermentum. Maecenas fringilla id erat in varius. Duis imperdiet posuere mi. Donec accumsan ante sed turpis hendrerit, eget mattis massa dapibus.
+だが何も考えず、他人の書いたコードを丸パクリするのが「車輪の再発明」を防ぐということではない。
+拡大解釈しないように注意。
+（ネットに上がっているのものは間違っていることや情報が古くなっていることも多々ある。）
+また、練習のためにすでにあるものを真似して作ってみる、ラインなりツイッターみたいなのを作ってみる。これも上達という別の目的があるなら車輪の再開発の名で糾弾されるべきものではないだろう。
 
-Cras fermentum mollis condimentum. Nullam eu enim id quam rhoncus molestie. Mauris ut lectus ac sapien blandit egestas. Donec dictum ornare euismod. Vivamus ac augue tristique neque convallis eleifend. In sed massa est. Nullam consectetur dapibus tempor. Donec molestie ligula lacus, ultrices placerat elit tempor non. Nulla tempor consequat condimentum. Morbi sollicitudin nulla condimentum ex maximus, vel ultricies felis bibendum. Morbi et tellus ac erat cursus euismod.
+逆に全部１から自分たちで作れ！という姿勢を自前主義と呼ぶようだ。
 
-Proin dictum arcu id ultricies vestibulum. Nulla facilisi. Donec at nulla sed sapien egestas lacinia sed quis dui. In felis velit, efficitur at nibh eget, consequat commodo elit. Mauris porta, lectus at varius iaculis, metus erat consequat nisl, at dignissim erat lorem quis enim. Phasellus iaculis erat sit amet condimentum consectetur. Aliquam orci tortor, pretium at ultricies eu, auctor molestie tellus. Donec luctus lacinia augue a vestibulum. Proin vulputate dictum euismod. Quisque nec erat lacinia purus tristique dictum. Curabitur cursus rhoncus ex nec aliquet.
+>自前主義  
+自社あるいは自国内で発明されたものでなければ採用しないというもので、大企業や大国にありがちな問題としてよく指摘される。  
 
-Donec eu tincidunt nibh. Sed vel facilisis turpis. Fusce pulvinar mi sollicitudin turpis iaculis, quis posuere tellus tristique. Vestibulum vulputate, neque ut faucibus finibus, libero risus varius est, quis sagittis sapien nibh non ligula. Suspendisse sodales interdum diam ac ullamcorper. In magna lectus, hendrerit ut nisl non, faucibus dignissim magna. Mauris vel tincidunt turpis. Aenean eget urna eget sem venenatis tempor. Duis sodales ut est vehicula pellentesque. Mauris maximus laoreet eros quis sagittis. Donec ornare magna sit amet sapien mattis blandit. Proin tempus felis et hendrerit vehicula. Fusce semper quis diam sed vulputate. Phasellus accumsan mauris ac urna vestibulum fringilla. Sed viverra venenatis metus, et euismod neque tempor sed. Aliquam pellentesque volutpat ante, at hendrerit tellus porttitor id.
-
-Fusce quis lectus sit amet lectus interdum consequat. In ultricies lorem id massa rhoncus suscipit. Sed a ornare velit. In hac habitasse platea dictumst. In convallis iaculis ligula id fermentum. Vestibulum gravida vulputate velit, in ornare metus ultricies ac. Maecenas congue metus risus, vitae tincidunt ipsum aliquet sit amet.
+だが開発コストも手間もものすごくかかるので、先人の知恵は借りれるだけ借りておくのがいいだろう。
