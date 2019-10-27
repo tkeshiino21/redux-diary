@@ -1,6 +1,6 @@
 ---
 path: "/post-2/"
-category: "その他"
+category: "other"
 tags: ["proverb"]
 title: "車輪の再発明"
 date: "2018-01-02T00:00:00.000Z"

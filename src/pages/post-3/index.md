@@ -1,23 +1,46 @@
 ---
 path: "/post-3/"
-category: "test-33"
-tags: ["tag"]
+category: "hackthon"
+tags: ["Firebase"]
 title: "Lorem Ipsum"
 date: "2018-01-03T00:00:00.000Z"
 summary: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
 images: ["images/1.jpg"]
 ---
 
-> Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
+## Firebaseを活かしてアプリを作ってみよう
 
-> There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...
+Firebase Japan User Groupsy主催の
+「Firebaseを活かしたアプリを考えようという会でした。」
+今回生まれたアイデアをまとめたいと思います。
+どのチームもアーキテクチャからマネタイズまでしっかり練られていて圧巻でした。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sed porttitor orci, a porta augue. Vestibulum augue velit, interdum in sagittis vel, gravida volutpat erat. Suspendisse ultrices tellus lorem, rhoncus finibus nisl pharetra et. Morbi aliquam, massa in sagittis imperdiet, nisi metus consequat ipsum, eu congue mi ipsum vel ante. Proin consequat libero eu facilisis aliquet. Mauris viverra malesuada elit, at suscipit est ullamcorper sed. Integer commodo ultricies ligula, ut mattis elit tincidunt sit amet. Vivamus nec sapien sit amet turpis finibus feugiat. Ut nec felis dictum, porttitor nisl eget, imperdiet lacus. Aenean lobortis purus vitae consequat molestie. Pellentesque rhoncus nunc at semper ornare. Vivamus sagittis consequat imperdiet. Fusce a lorem in mauris iaculis fermentum. Maecenas fringilla id erat in varius. Duis imperdiet posuere mi. Donec accumsan ante sed turpis hendrerit, eget mattis massa dapibus.
+## 夜泣き仲間アプリ
 
-Cras fermentum mollis condimentum. Nullam eu enim id quam rhoncus molestie. Mauris ut lectus ac sapien blandit egestas. Donec dictum ornare euismod. Vivamus ac augue tristique neque convallis eleifend. In sed massa est. Nullam consectetur dapibus tempor. Donec molestie ligula lacus, ultrices placerat elit tempor non. Nulla tempor consequat condimentum. Morbi sollicitudin nulla condimentum ex maximus, vel ultricies felis bibendum. Morbi et tellus ac erat cursus euismod.
+　赤ちゃんの夜中。旦那の帰りが遅く、孤独を感じる。
+そんな女性のためのアプリの構想でした。
+マタニティブルーの時期、生まれて間もない非常に手のかかる時期、
+その苦労を共感しあえたりするアプリがあったらいいですよね。
+また、夫になかなか子育ての苦悩を共感してもらえなかったりするかもしれません。
+そんなときエコーズと連携して、子どもが泣いたら自動録音。
+そしたらこんなに大変なんだとわかってもらえるかもしれせんし、
+先輩ママさんから効果のある夜泣き対策を教えてもらえるかもしれません。
 
-Proin dictum arcu id ultricies vestibulum. Nulla facilisi. Donec at nulla sed sapien egestas lacinia sed quis dui. In felis velit, efficitur at nibh eget, consequat commodo elit. Mauris porta, lectus at varius iaculis, metus erat consequat nisl, at dignissim erat lorem quis enim. Phasellus iaculis erat sit amet condimentum consectetur. Aliquam orci tortor, pretium at ultricies eu, auctor molestie tellus. Donec luctus lacinia augue a vestibulum. Proin vulputate dictum euismod. Quisque nec erat lacinia purus tristique dictum. Curabitur cursus rhoncus ex nec aliquet.
+## 災害情報アプリ
 
-Donec eu tincidunt nibh. Sed vel facilisis turpis. Fusce pulvinar mi sollicitudin turpis iaculis, quis posuere tellus tristique. Vestibulum vulputate, neque ut faucibus finibus, libero risus varius est, quis sagittis sapien nibh non ligula. Suspendisse sodales interdum diam ac ullamcorper. In magna lectus, hendrerit ut nisl non, faucibus dignissim magna. Mauris vel tincidunt turpis. Aenean eget urna eget sem venenatis tempor. Duis sodales ut est vehicula pellentesque. Mauris maximus laoreet eros quis sagittis. Donec ornare magna sit amet sapien mattis blandit. Proin tempus felis et hendrerit vehicula. Fusce semper quis diam sed vulputate. Phasellus accumsan mauris ac urna vestibulum fringilla. Sed viverra venenatis metus, et euismod neque tempor sed. Aliquam pellentesque volutpat ante, at hendrerit tellus porttitor id.
+　見事、優勝したチームでした。
+圧倒的なスーケラビリティというFirebaseの優位性をフルに活かしたアイデアです。
+簡単に言うと、Firebaseならどんなに一度にアクセスが増えても落ちないよねって話です。
+特に今回の台風１９号みたいな災害時には、せっかくのニュースキューレーションサイトも５０３出してしまいがちですが、そこはFirebaseなら問題なし。
+さらに目の付け所がすごいのは、見過ごされがちな郊外の災害の影響に着目したところです。
+東京駅の被害とかニュースになったりするけど、じゃあ茨木駅の状況は？というとどうやって情報を手に入れたらいいんだろう。
+そんなときこのアプリの構想は、Twitterの情報をスクレイピングしてまとめるというものです。
+実装された本当に使いたいぐらいのアプリでした。
+文句なしの優勝だったと思います。
 
-Fusce quis lectus sit amet lectus interdum consequat. In ultricies lorem id massa rhoncus suscipit. Sed a ornare velit. In hac habitasse platea dictumst. In convallis iaculis ligula id fermentum. Vestibulum gravida vulputate velit, in ornare metus ultricies ac. Maecenas congue metus risus, vitae tincidunt ipsum aliquet sit amet.
+## 終わりに
+
+こんな感じにチームでアプリやサービスを考えるのは楽しいですね。
+感心するばかりでしたが、次はもう少しお役に立てるよう頑張りたいです。
+12/1にまた開かれるようなのでご興味のある方は下記のURLからぜひ。
+[Firebase Japan User Group](https://firebase.asia/)
