@@ -3,8 +3,8 @@ path: "/post-3/"
 category: "hackthon"
 tags: ["Firebase"]
 title: "Lorem Ipsum"
-date: "2018-01-03T00:00:00.000Z"
-summary: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+date: "2019-10-29T00:00:00.000Z"
+summary: "Firebaseを活かしてアプリをつくるアイデアソンが楽しかった話..."
 images: ["images/1.jpg"]
 ---
 
