@@ -1,6 +1,6 @@
 ---
 path: "/post-3/"
-category: "hackthon"
+category: "hackathon"
 tags: ["Firebase"]
 title: "Lorem Ipsum"
 date: "2019-10-29T00:00:00.000Z"
