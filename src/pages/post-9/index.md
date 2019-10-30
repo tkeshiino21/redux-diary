@@ -1,19 +1,32 @@
 ---
 path: "/post-9/"
-category: "test-999"
-tags: ["tag"]
-title: "React application inside of post"
+category: "other"
+tags: ["books"]
+title: "デザインを学ぶならこの本がおすすめ"
 date: "2018-01-09T00:00:00.000Z"
-summary: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-components: [{
-  rootId: 'sample-component',
-  fileName: 'sample',
-}]
+summary: "今までに読んだ本のデザイン編 ..."
 images: ["images/2.jpg"]
 ---
 
-<div id="sample-component"></div>
+## 今までに読んだ本をまとめる
 
-```js
-const a = 1;
-```
+### ーデザイン編ー
+
+- なるほどデザイン〈目で見て楽しむ新しいデザインの本
+デザインの本なのに装丁のデザインが全然ドヤってないのが、逆にデザインかなという（何言ってんだ）本。
+この本自体がかなり良質にデザインされているので、読みやすいし読んでいて楽しい。
+プログラミングの息抜きにパラパラめくってみるととてもいいと思う。
+
+- ノンデザイナーズ・デザインブック
+体系立てて教えてくれるデザインの本。
+読者にセンスを求めないでくれるというか、
+とにかく素敵に見えるデザインが素敵に見える理由がわかる。
+
+＿  
+以上！
+残念ながら今のところ2冊しかないが、
+今後はご紹介できる本を増やしていきたいと思います。
+あと、フロントエンドエンジニアもデザインのこととかわかっていると、
+チームで開発しやすいんじゃないかというので読んでみました。
+デザインも結構面白いで！という所感です。
+それでは！
