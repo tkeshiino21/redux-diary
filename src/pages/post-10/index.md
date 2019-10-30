@@ -1,9 +1,9 @@
 ---
 path: "/post-10/"
-category: "other3"
+category: "other"
 tags: ["school"]
 title: "プログラミングスクールに通うかべきか？"
-date: "2018-01-10T00:00:00.000Z"
+date: "2019-11-04T00:00:00.000Z"
 summary: "独学 vs スクール【比較】"
 images: ["images/1.jpg"]
 ---
