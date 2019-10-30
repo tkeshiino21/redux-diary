@@ -6,22 +6,22 @@ exports.PORTFOLIO = 'portfolio';
 exports.RESUME = 'resume';
 
 // Site Information
-exports.NAME = 'Gatsby Advanced Blog';
-exports.TITLE = 'Gatsby Advanced Blog';
-exports.PREFIX = 'WONISM | ';
-exports.DESCRIPTION = 'Create your own blog with Gatsby Advanced Blog';
-exports.AUTHOR = 'wonism';
-exports.EMAIL = 'yocee57@gmail.com';
+exports.NAME = 'Electric Sheep Blog';
+exports.TITLE = 'Electric Sheep Blog';
+exports.PREFIX = 'TAKESHIINO | ';
+exports.DESCRIPTION = 'So we boat on, someday, sometimes';
+exports.AUTHOR = 'takeshiino21';
+exports.EMAIL = 'takeshitoras.79@gmail.com';
 exports.KEYWORDS = [
   'Gatsby',
   'ReactJS',
 ].join(', ');
-exports.SITE_URL = 'https://wonism.github.io';
+exports.SITE_URL = 'https://github.com/t-keshi-inoue';
 exports.PROFILE = 'https://avatars3.githubusercontent.com/u/42737121?s=200&v=4';
 
 // Social
-exports.GITHUB_ID = 'wonism';
-exports.TWITTER_ID = 'j1ism';
+exports.GITHUB_ID = 't-keshi-inoue';
+exports.TWITTER_ID = 'takeshiino21';
 exports.FACEBOOK_ID = 'j1.chic';
 exports.LINKEDIN_ID = 'wonism';
 

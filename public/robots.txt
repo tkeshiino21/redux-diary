@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://wonism.github.io/sitemap.xml
-Host: https://wonism.github.io
+Sitemap: https://github.com/t-keshi-inoue/sitemap.xml
+Host: https://github.com
