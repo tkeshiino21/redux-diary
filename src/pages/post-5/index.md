@@ -3,7 +3,7 @@ path: "/post-5/"
 category: "React"
 tags: ["React", "TypeScript"]
 title: "ReactScript"
-date: "2019-10-30T00:00:00.000Z"
+date: "2019-11-1T00:00:00.000Z"
 summary: "TypeScriptことはじめ"
 images: ["images/1.jpg"]
 ---

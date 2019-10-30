@@ -2,8 +2,8 @@
 path: "/post-6/"
 category: "React"
 tags: ["emotion","styled-component","CSSinJS"]
-title: "Lorem Ipsum"
-date: "2018-01-06T00:00:00.000Z"
+title: "CSSinJSことはじめ"
+date: "2019-10-30T00:00:00.000Z"
 summary: "Reactのスタイリングをどうやるか？"
 images: ["images/1.jpg"]
 ---

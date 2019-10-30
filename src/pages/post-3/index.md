@@ -2,7 +2,7 @@
 path: "/post-3/"
 category: "hackathon"
 tags: ["Firebase"]
-title: "Lorem Ipsum"
+title: "Firebaseアイデアソン"
 date: "2019-10-29T00:00:00.000Z"
 summary: "Firebaseを活かしてアプリをつくるアイデアソンが楽しかった話..."
 images: ["images/1.jpg"]

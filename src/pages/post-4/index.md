@@ -2,7 +2,7 @@
 path: "/post-4/"
 category: "Native"
 tags: ["Flutter"]
-title: "Lorem Ipsum"
+title: "Flutterとは"
 date: "2019-10-31T00:00:00.000Z"
 summary: "NativeアプリはFlutterが来る？..."
 images: ["images/1.jpg"]

@@ -3,7 +3,7 @@ path: "/post-2/"
 category: "other"
 tags: ["proverb"]
 title: "車輪の再発明"
-date: "2018-01-02T00:00:00.000Z"
+date: "2019-10-26T00:00:00.000Z"
 summary: "プログラマーなら必ず知っておくべき諺「車輪の再発明」とは？」"
 images: ["images/1.jpg"]
 ---

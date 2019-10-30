@@ -2,7 +2,7 @@
 path: "/post-1/"
 category: "mokumoku"
 tags: ["proverb", "security"]
-title: "Ebis.js mokumoku diary"
+title: "Ebis.jsもくもく会"
 date: "2019-10-25T00:00:00.000Z"
 summary: "他人事じゃない！ハッキングの基礎知識"
 images: ["images/1.jpg"]
