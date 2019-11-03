@@ -25,15 +25,11 @@ path: "/resume/"
 
 - JavaScript
   - ES2015+
-  - ReactJS
-  - Lodash
+  - React
+  - Gatsby
 
-「JavaScriptですごくいいよね。」
-という人とは本当に仲良くやっていきたい。
+- Firebase
 
 - CSS
   - SASS
   - Less
-
-エンジニアは割りと珍しくも（？）、
-デザインも結構楽しいと思っているタイプ。

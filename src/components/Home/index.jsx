@@ -20,9 +20,11 @@ const Home = ({ portfolios }) => (
       <Title>
         Electric Sheep
       </Title>
-      <Link to="https://cranky-cori-9304ff.netlify.com/pages/1"><Button>
+      <Link to="pages/1">
+        <Button>
         All Posts
-      </Button></Link>
+        </Button>
+      </Link>
     </Wrapper>
     {portfolios.length >= 4 ? (
       <SimpleWrapper>
