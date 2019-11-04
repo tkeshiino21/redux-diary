@@ -26,7 +26,7 @@ const PostWrapper = styled.section`
     font-size: 14px;
   }
 
-  @import url("https://fonts.googleapis.com/css?family=Inconsolata");
+  @import url("https://fonts.googleapis.com/css?family=Noto+Sans+JP");
 
   /**
    * based on zenburn.css
@@ -93,7 +93,7 @@ const PostWrapper = styled.section`
     padding: 1.58333rem;
     white-space: inherit;
     word-wrap: normal;
-    font-family: Inconsolata, monospace;
+    font-family: Noto Sans JP, monospace;
   }
 
   .gatsby-highlight code {
