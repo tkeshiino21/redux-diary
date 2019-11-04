@@ -93,7 +93,7 @@ const PostWrapper = styled.section`
     padding: 1.58333rem;
     white-space: inherit;
     word-wrap: normal;
-    font-family: Noto Sans JP, monospace;
+    font-family: Noto Sans JP, sans-serif;
   }
 
   .gatsby-highlight code {
@@ -110,7 +110,7 @@ const PostWrapper = styled.section`
     background: transparent;
     color: #3B9CFF;
     display: inline;
-    font-family: D2Coding, 'D2 coding', monospace, serif;
+    font-family: Noto Sans JP, 'Noto Sans JP', sans-serif;
     max-width: 100%;
     overflow: auto;
     padding: 0 0.1625rem;
