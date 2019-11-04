@@ -4,6 +4,7 @@ const PostWrapper = styled.section`
   margin: auto;
   padding: 120px 0 0;
   max-width: 720px;
+  font-family: Noto Sans JP, sans-serif;
   font-size: 14px;
   @media (max-width: 414px) {
     padding: 70px 16px 0;
@@ -19,11 +20,13 @@ const PostWrapper = styled.section`
   h1 {
     margin: .67em 0;
     font-size: 36px;
+    font-family: Noto Sans JP, sans-serif;
   }
 
   time {
     margin: 1em 0;
     font-size: 14px;
+    font-family: Arial, sans-serif;
   }
 
   @import url("https://fonts.googleapis.com/css?family=Noto+Sans+JP");

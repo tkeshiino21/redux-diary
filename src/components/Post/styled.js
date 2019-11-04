@@ -44,7 +44,7 @@ export const PostContent = styled.section`
     line-height: 1.2em;
     color: #aaa;
     font-style: italic;
-    font-family: 'Kaushan Script';
+    font-family: 'Noto Sans JP';
     font-size: 24px;
   }
 
