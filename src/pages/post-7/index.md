@@ -5,7 +5,7 @@ tags: ["ESLint"]
 title: "ESLintで整形しよう"
 date: "2019-11-27T00:00:00.000Z"
 summary: "フォマッターを使ってみるならまずはESLint?..."
-images: ["images/1.jpg"]
+images: ["images/3.jpeg"]
 ---
 
 ## prettierとの出逢い

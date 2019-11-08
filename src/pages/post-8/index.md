@@ -5,7 +5,7 @@ tags: ["books"]
 title: "入門書と技術書の紹介"
 date: "2019-11-02T00:00:00.000Z"
 summary: "こんなん読んだらどないやねんっていうやつ"
-images: ["images/1.jpg"]
+images: ["images/5.jpg"]
 ---
 
 ## 今までに読んだ本をまとめる

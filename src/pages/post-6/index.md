@@ -5,7 +5,7 @@ tags: ["emotion","styled-component","CSSinJS"]
 title: "CSSinJSことはじめ"
 date: "2019-10-30T00:00:00.000Z"
 summary: "Reactのスタイリングをどうやるか？"
-images: ["images/1.jpg"]
+images: ["images/3.jpeg"]
 ---
 
 ## Reactのスタイリングをどうやるか問題
