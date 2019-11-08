@@ -2,7 +2,7 @@
 path: "/post-9/"
 category: "other"
 tags: ["books"]
-title: "デザインを学ぶならこの本がおすすめ"
+title: "デザイン本を読んでみた"
 date: "2019-11-03T00:00:00.000Z"
 summary: "今までに読んだ本のデザイン編 ..."
 images: ["images/2.jpg"]

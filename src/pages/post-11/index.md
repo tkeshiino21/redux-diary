@@ -2,38 +2,34 @@
 path: "/post-11/"
 category: "Tools"
 tags: ["ESLint","React"]
-title: "ESLintってなに？"
+title: "JAMStackって何なの問題に挑む"
 date: "2019-11-05T00:00:00.000Z"
-summary: "JSのLintterはとりあえずESLint"
-images: ["images/1.jpg"]
+summary: "JAMStack、最近流行りのアーキテクチャーについて"
+images: ["images/4.png"]
 ---
 
-## Lintterとは
+## JAMStackとは
 
->lintとは、詳細かつ厳密なチェックを行うプログラムである。 静的解析ツールとも呼ばれる。 コンパイラではチェックされないが、バグの原因になるような曖昧な記述についても警告される。(wikipediaより引用)
+そもそもJAMとは以下の頭文字を取ったものである。  
+-JavaScript  
+-APIs  
+-Markup  
+・・・とされているがこれは後付けのようでJAMという言葉の語感がよかったというのが本当のところのようである。
+特定のツールというよりは、アーキテクチャーを指す言葉であり、
+javaScriptでapiから取得したデータをもとにデプロイ時にHTMLを生成するWebサイトのことだ。
 
-転ばぬ先の杖というか、エラーが起こる前に
-「この辺、もっとしっかり書いておかないとあとで、大変なことになるかもよ！」
-と教えてくれるちょっとお節介ですごく優しい奴である。
+## で？っていう感
 
-具体的には、下記のようなときに叱ってくれるらしい。
+JavaScriptもAPIもMarkupも今更とりたてて新しいと喜ぶような技術ではない。
+にも関わらず、なぜ今脚光を浴びて一種のトレンドとなりつつあるのか。
 
-- 型の一致しない関数呼び出し
-- 初期化されていない変数の参照がある
-- 宣言されているが使われていない変数がある
-- 同じ関数を参照しているが、戻り値を使う場合と使わない場合がある
-- 関数が戻り値を返す場合と返さない場合がある
+## 静的サイトジェネレータじゃねぇよっていう
 
-## ESLint
+「静的って呼ばないで。SPAみたいなめっちゃ動的なサイトも作れるやつですぜ。」
+という主張が、これまでの静的サイトジェネレーターとは一線を画する部分である。
+JAMstackのメリットとして、安全かつ速く動くことなどが挙げられるようだ。
+本ブログもGatbyで作成されたJAMstackに近い構成のWebサイトだが、
+割と速いし、wordpressのようにセキュリティ関連のアップデートを頻繁に行わなくて済むのが嬉しい。
 
-JSのLintにはJSLint, JSHint, JSCS, ESLintなどがあるらしい。
-2019年10月現在、主流になりつつあるJSLintを使ってみたい。
-
-## ReactにおけるESLintの設定
-
-自分で設定を書いていく修羅の道もあるが、初心者はairbnbのルールを使うのが吉だ。  
-npm i -D eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
-
-それでも修羅の道を歩みたい人のために次のコマンドがある。  
-npm install --save-dev eslint  
-あとは。プロジェクトフォルダ直下に.eslintrc.jsonを作って編集していけばOK。
+より詳しく知りたい方は[qiitaの記事](https://qiita.com/ossan-engineer/items/4fe0e3e388f510bd5c68)を。
+ではまた。
