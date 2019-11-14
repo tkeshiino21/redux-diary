@@ -29,7 +29,7 @@ const PostWrapper = styled.section`
     font-family: Arial, sans-serif;
   }
 
-  @import url("https://fonts.googleapis.com/css?family=Noto+Sans+JP");
+  @import url("https://fonts.googleapis.com/css?family=Noto+Sans+JP:300,700");
 
   /**
    * based on zenburn.css
