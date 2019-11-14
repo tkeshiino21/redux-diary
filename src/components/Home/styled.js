@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Title = styled.h1`
-  @import url("https://fonts.googleapis.com/css?family==Tomorrow");
+  @import url("https://fonts.googleapis.com/css?family=Tomorrow&display=swap");
   position: absolute;
   top: 0;
   bottom: 0;
@@ -32,7 +32,7 @@ export const Button = styled.button`
   color: #3B9CFF;
   font-size: 1em;
   padding: 0.25em 1em 1.5em 1em;
-  border: 2px solid palevioletred;
+  border: 2px solid #3B9CFF;
   border-radius: 3px;
   font-family: 'Lato', sans-serif;
 `;

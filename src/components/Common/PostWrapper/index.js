@@ -21,6 +21,7 @@ const PostWrapper = styled.section`
     margin: .67em 0;
     font-size: 36px;
     font-family: Noto Sans JP, sans-serif;
+    font-weight: bold;
   }
 
   time {

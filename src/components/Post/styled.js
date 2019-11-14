@@ -21,11 +21,13 @@ export const PostContent = styled.section`
   h2 {
     margin: 24px 0 10px;
     font-size: 28px;
+    font-weight: bold;
   }
 
   h3 {
     margin: 24px 0 10px;
     font-size: 24px;
+    font-weight: bold;
   }
 
   h4 {
