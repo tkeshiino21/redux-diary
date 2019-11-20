@@ -12,7 +12,7 @@ images: [images/4.png]
 
 URL はこちら
 
-[Gatsby スライド](https://github.com/DavidAnson/vscode-markdownlint#configure)
+[Gatsby スライド](https://nifty-clarke-475e15.netlify.com/1)
 
 ## Markdown記法の設定方法
 
