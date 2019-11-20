@@ -1,7 +1,7 @@
-import React from 'react';
-import { graphql } from 'gatsby';
-import Layout from '~/components/layout';
-import List from '~/components/List';
+import React from "react";
+import { graphql } from "gatsby";
+import Layout from "~/components/layout";
+import List from "~/components/List";
 
 const ListTemplate = props => (
   <Layout {...props}>
@@ -20,7 +20,7 @@ export const pageQuery = graphql`
         homepage
       }
     }
-    posts: allMarkdownRemark (
+    posts: allMarkdownRemark(
       filter: { frontmatter: { hide: { ne: true } } }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
