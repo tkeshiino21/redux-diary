@@ -40,13 +40,17 @@ export const PostContent = styled.section`
     font-size: 16px;
   }
 
+  strong {
+    font-weight: bold;
+  }
+
   blockquote {
     margin: 40px 0 0;
     padding: 0 0 0 2em;
     line-height: 1.2em;
     color: #aaa;
     font-style: italic;
-    font-family: 'Noto Sans JP';
+    font-family: "Noto Sans JP";
     font-size: 24px;
   }
 
@@ -96,7 +100,7 @@ export const ComponentInPost = styled.div`
     color: #fff;
     background-color: #263238;
     font-weight: 100;
-    content: 'Application for example';
+    content: "Application for example";
   }
 
   &:after {
@@ -108,7 +112,7 @@ export const ComponentInPost = styled.div`
     height: 10px;
     background-color: #ff5f56;
     border-radius: 50%;
-    content: '';
+    content: "";
   }
 
   & > *:first-child {
@@ -121,7 +125,7 @@ export const ComponentInPost = styled.div`
       height: 10px;
       background-color: #ffbd2e;
       border-radius: 50%;
-      content: '';
+      content: "";
     }
 
     &:after {
@@ -133,7 +137,7 @@ export const ComponentInPost = styled.div`
       height: 10px;
       background-color: #27c93f;
       border-radius: 50%;
-      content: '';
+      content: "";
     }
   }
 `;

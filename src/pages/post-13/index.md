@@ -5,7 +5,7 @@ tags: ["ESLint","React"]
 title: "ESLintってなに？"
 date: "2019-11-05T00:00:00.000Z"
 summary: "JSのLintterはとりあえずESLint"
-images: ["images/1.jpg"]
+images: ["images/5.png"]
 ---
 
 ## Lintterとは

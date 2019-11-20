@@ -5,7 +5,7 @@ tags: ["React", "TypeScript"]
 title: "ReactScript"
 date: "2019-11-1T00:00:00.000Z"
 summary: "TypeScriptことはじめ"
-images: ["images/1.jpg"]
+images: ["images/3.jpeg"]
 ---
 
 ## TypeScriptって何
