@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Title = styled.h1`
-  @import url("https://fonts.googleapis.com/css?family=Tomorrow&display=swap");
+  @import url('https://fonts.googleapis.com/css?family=Tomorrow&display=swap');
   position: absolute;
   top: 0;
   bottom: 0;
@@ -21,7 +21,7 @@ export const Title = styled.h1`
 `;
 
 export const Button = styled.button`
-  @import url("https://fonts.googleapis.com/css?family=Lato");
+  @import url('https://fonts.googleapis.com/css?family=Lato');
   position: absolute;
   top: 300px;
   bottom: 0;
@@ -29,10 +29,10 @@ export const Button = styled.button`
   left: 0;
   margin: auto;
   height: 1.5em;
-  color: #3B9CFF;
+  color: #3b9cff;
   font-size: 1em;
   padding: 0.25em 1em 1.5em 1em;
-  border: 2px solid #3B9CFF;
+  border: 2px solid #3b9cff;
   border-radius: 3px;
   font-family: 'Lato', sans-serif;
 `;
