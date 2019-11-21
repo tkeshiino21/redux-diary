@@ -20,7 +20,7 @@ images: [images/1.jpg]
 
 ## 提案：プレフィックスを加える
 
-下記は[Angularのガイド](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#type)ほぼ翻訳したもの、ちょっと補足もあり。
+下記は[Angularのガイド](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#type)をざっくりで訳したもの。（間違ってたら教えてください。）
 
 - feat: 新しい機能を付け加えたとき
 - fix: バグを直したとき
