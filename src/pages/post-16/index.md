@@ -1,5 +1,5 @@
 ---
-path: "/post15/"
+path: "/post16/"
 category: "other"
 tags: ["test"]
 title: "コミットメッセージ"
