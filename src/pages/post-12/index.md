@@ -5,7 +5,7 @@ tags: ["book","code"]
 title: "その名にちなんで"
 date: "2019-11-06T00:00:00.000Z"
 summary: "わかりやすい命名を考えよう"
-images: ["images/1.jpg"]
+images: ["images/1.png"]
 ---
 
 ## For Name Sake

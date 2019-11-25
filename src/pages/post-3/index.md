@@ -5,7 +5,7 @@ tags: ["Firebase", "test"]
 title: "Firebaseアイデアソン"
 date: "2019-10-29T00:00:00.000Z"
 summary: "Firebaseを活かしてアプリをつくるアイデアソンが楽しかった話..."
-images: ["images/1.jpg"]
+images: ["images/1.png"]
 ---
 
 ## Firebase を活かしてアプリを作ってみよう

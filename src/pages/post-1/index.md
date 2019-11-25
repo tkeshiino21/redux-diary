@@ -5,7 +5,7 @@ tags: ["proverb", "security"]
 title: "Ebis.jsもくもく会"
 date: "2019-10-25T00:00:00.000Z"
 summary: "他人事じゃない！ハッキングの基礎知識"
-images: ["images/1.jpg"]
+images: ["images/1.png"]
 ---
 
 ## 脆弱性

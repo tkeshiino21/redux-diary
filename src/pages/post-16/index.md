@@ -5,10 +5,10 @@ tags: ["test"]
 title: "コミットメッセージ"
 date: "2019-11-15T00:00:00.000Z"
 summary: "commit -m そのあとは如何に"
-images: [images/1.jpg]
+images: [images/1.png]
 ---
 
-## git commit -m "ここに何を書いたらいいのか問題に迫る"
+## git commit -m "ここに何を書いたらいいのか"
 
 人によってまちまちのコミットメッセージ　＝＞　困る
 一定のルールをコミットメッセージに設けたら良いのではないか。

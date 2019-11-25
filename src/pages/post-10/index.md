@@ -5,7 +5,7 @@ tags: ["school"]
 title: "プログラミングスクールに通うかべきか？"
 date: "2019-11-04T00:00:00.000Z"
 summary: "独学 vs スクール【比較】"
-images: ["images/1.jpg"]
+images: ["images/1.png"]
 ---
 
 ## プログラミングスクールに通うべきか

@@ -5,8 +5,8 @@ category: "Native"
 tags: ["Flutter"]
 title: "Flutterとは"
 date: "2019-10-31T00:00:00.000Z"
-summary: "NativeアプリはFlutterが来る？..."
-images: ["images/1.jpg"]
+summary: "NativeアプリはFlutter？..."
+images: ["images/1.png"]
 ---
 
 ## Flutter とは

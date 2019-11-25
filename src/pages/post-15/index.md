@@ -5,7 +5,7 @@ tags: ["test"]
 title: "TDDが面白い件"
 date: "2019-11-15T00:00:00.000Z"
 summary: "テスト駆動開発とは"
-images: [images/1.jpg]
+images: [images/1.png]
 ---
 
 ## なんでテストをするの?
