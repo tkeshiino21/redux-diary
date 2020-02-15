@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"components\" on type \"MarkdownRemarkFrontmatter\".","locations":[{"line":21,"column":7}]},{"message":"Cannot query field \"tweets\" on type \"MarkdownRemarkFrontmatter\".","locations":[{"line":25,"column":7}]}],"pageContext":{"isCreatedByStatefulCreatePages":false}}
