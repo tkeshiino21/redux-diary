@@ -1,9 +1,9 @@
 ---
 path: "/post19/"
 category: "other"
-tags: ["読書録"]
+tags: ["other"]
 title: "OOPを考える"
-date: "2019-11-16T00:00:00.000Z"
+date: "2019-11-18T00:00:00.000Z"
 summary: "オブジェクト指向に挑む"
 images: [images/1.png]
 ---
