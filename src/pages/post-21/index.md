@@ -1,9 +1,9 @@
 ---
-path: "/post19/"
+path: "/post21/"
 category: "other"
 tags: ["other"]
 title: "RESTfulって何がful?"
-date: "2019-11-17T00:00:00.000Z"
+date: "2019-11-20T00:00:00.000Z"
 summary: "RESTを詳解"
 images: [images/1.png]
 ---

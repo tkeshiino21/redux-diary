@@ -1,5 +1,5 @@
 ---
-path: "/post19/"
+path: "/post20/"
 category: "other"
 tags: ["other"]
 title: "OOPを考える"
